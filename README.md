@@ -8,7 +8,6 @@
 
 + Python
 + MySQL & SQLite
-+ 基礎網路知識  TCP/IP 協定
 + Git 版本控制
 
 ### :book: Learning :
