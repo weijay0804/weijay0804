@@ -9,10 +9,10 @@
 + Python
 + MySQL & SQLite
 + Git 版本控制
++ + Linux 操作
 
 ### :book: Learning :
 
-+ Linux 操作
 + Docker 容器使用
 
 
