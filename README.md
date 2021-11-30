@@ -9,7 +9,7 @@
 + Python
 + MySQL & SQLite
 + Git 版本控制
-+ + Linux 操作
++ Linux 操作
 
 ### :book: Learning :
 
